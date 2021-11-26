@@ -17,5 +17,9 @@ namespace cab_management
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            < asp:ButtonID = "Button1"  Text = "demo" BorderStyle = "Solid" ToolTip = "Submit" />
+        }
     }
 }
